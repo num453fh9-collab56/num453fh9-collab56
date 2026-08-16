@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&duration=3500&pause=500&color=8B5CF6&center=true&vCenter=true&multiline=false&width=600&height=60&lines=Hi+%F0%9F%91%8B%2C+I'm+Nauman;AI+Agent+Builder+%F0%9F%A4%96;Building+the+future%2C+one+agent+at+a+time" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&duration=3500&pause=500&color=8B5CF6&center=true&vCenter=true&multiline=false&width=600&height=60&lines=Welcome+back!+%F0%9F%91%8B;I'm+Nauman;AI+Agent+Builder+%F0%9F%A4%96;Building+the+future%2C+one+agent+at+a+time" alt="Typing SVG" />
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=8B5CF6&height=120&section=header&text=NAUMAN&fontSize=40&fontColor=ffffff&fontAlignY=40&animation=fadeIn" width="100%" />
 
