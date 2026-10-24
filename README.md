@@ -2,7 +2,7 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=220&section=header&text=Nauman%20Ali&fontSize=60&fontColor=58a6ff&fontAlignY=35&desc=AI%20Automation%20Specialist%20%7C%20Frontend%20Developer&descSize=18&descAlignY=55&descColor=8b949e&animation=fadeIn)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=70&lines=Building+intelligent+automation+systems+%F0%9F%A4%96;Crafting+pixel-perfect+frontend+experiences+%F0%9F%8E%A8;Turning+ideas+into+production-ready+products+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=70&lines=Building+intelligent+automation+systems;Crafting+pixel-perfect+frontend+experiences;Turning+ideas+into+production-ready+products)](https://git.io/typing-svg)
 
 <br/>
 
@@ -15,14 +15,14 @@
 
 ---
 
-## 🧑‍💻 About Me
+## About Me
 
 ```python
 class NaumanAli:
     def __init__(self):
         self.name = "Nauman Ali"
         self.role = "AI Automation Specialist & Frontend Developer"
-        self.location = "Pakistan 🇵🇰"
+        self.location = "Pakistan"
         self.languages_spoken = ["Urdu", "English"]
         self.status = "Open for freelance & remote opportunities"
 
@@ -43,7 +43,7 @@ class NaumanAli:
         ]
 
     def fun_fact(self):
-        return "I automate things before I even know I need them automated 🤖"
+        return "I automate things before I even know I need them automated"
 
 me = NaumanAli()
 print(me.fun_fact())
@@ -51,13 +51,13 @@ print(me.fun_fact())
 
 <br/>
 
-## ⚡ What I Do
+## What I Do
 
 <table>
 <tr>
 <td width="50%">
 
-### 🤖 AI Automation
+### AI Automation
 - Building autonomous AI agents & tools
 - Integrating AI APIs into production workflows
 - Prompt engineering & structured AI output
@@ -66,7 +66,7 @@ print(me.fun_fact())
 </td>
 <td width="50%">
 
-### 🎨 Frontend Development
+### Frontend Development
 - Responsive UIs with React.js & TypeScript
 - Pixel-perfect designs with Tailwind CSS
 - Modern JavaScript (ES6+) applications
@@ -77,7 +77,7 @@ print(me.fun_fact())
 <tr>
 <td width="50%">
 
-### 🔧 Backend Development
+### Backend Development
 - REST APIs with Node.js & Express.js
 - Authentication systems (JWT)
 - Database design (MongoDB, MySQL)
@@ -86,7 +86,7 @@ print(me.fun_fact())
 </td>
 <td width="50%">
 
-### 🚀 Platform Building
+### Platform Building
 - Full-stack SaaS platforms
 - E-commerce solutions
 - Developer tools & utilities
@@ -98,7 +98,7 @@ print(me.fun_fact())
 
 <br/>
 
-## 🛠️ Technology Arsenal
+## Technology Arsenal
 
 <div align="center">
 
@@ -135,7 +135,7 @@ print(me.fun_fact())
 
 <br/>
 
-## 🏆 Featured Projects
+## Featured Projects
 
 <div align="center">
 
@@ -154,7 +154,7 @@ print(me.fun_fact())
 
 <br/>
 
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 <div align="center">
 
@@ -169,7 +169,7 @@ print(me.fun_fact())
 
 <br/>
 
-## 🏅 Achievements
+## Achievements
 
 <div align="center">
 
@@ -179,7 +179,7 @@ print(me.fun_fact())
 
 <br/>
 
-## 📈 Contribution Graph
+## Contribution Graph
 
 <div align="center">
 
@@ -189,7 +189,7 @@ print(me.fun_fact())
 
 <br/>
 
-## 🤝 Let's Connect
+## Let's Connect
 
 <div align="center">
 
@@ -198,13 +198,13 @@ Whether it's building intelligent agents, crafting web platforms, or automating 
 
 <br/>
 
-[![Email](https://img.shields.io/badge/📧_Email_Me-num453fh9@gmail.com-EA4335?style=for-the-badge)](mailto:num453fh9@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/💼_Connect-LinkedIn-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/nauman-ali-62b7103a8/)
-[![Portfolio](https://img.shields.io/badge/🌐_Visit-Portfolio-58a6ff?style=for-the-badge)](https://nomi-portfolio.vercel.app/)
+[![Email](https://img.shields.io/badge/Email_Me-num453fh9@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:num453fh9@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/Connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nauman-ali-62b7103a8/)
+[![Portfolio](https://img.shields.io/badge/Visit-Portfolio-58a6ff?style=for-the-badge&logo=vercel&logoColor=white)](https://nomi-portfolio.vercel.app/)
 
 <br/>
 
-⭐ **If you find my work useful, consider giving a star to my repos!**
+**If you find my work useful, consider giving a star to my repos!**
 
 </div>
 
